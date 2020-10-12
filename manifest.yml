@@ -1,5 +1,5 @@
 applications:
-  name: my-display-app
+  name: "my-display-app"
   buildpack: "https://github.com/cloudfoundry/staticfile-buildpack.git"
   host: my-display-app
   memory: 256M
